@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mordisco Ya - POS, Delivery y Validación Yape",
+  "description": "Sistema operativo y punto de venta para restaurante Mordisco Ya con validación segura de transferencias Yape, seguimiento de pedidos en vivo, despacho de cocina y módulo de caja con MFA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
